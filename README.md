@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm Mikhail - a Go developer beginning my journey 
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://github.com/m1keee3/m1keee3/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
