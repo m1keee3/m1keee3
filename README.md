@@ -36,17 +36,17 @@ Welcome to my GitHub profile! I'm Mikhail - a Go developer beginning my journey 
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/m1keee3/m1keee3/main/dist/github-contribution-grid-snake.svg" alt="snake game" />
-</p>
-
+<br></br>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=m1keee3&theme=default&border_radius=5&locale=ru" alt="GitHub Streak" height="180"/>
 
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m1keee3/m1keee3/main/dist/github-contribution-grid-snake.svg" alt="snake game" />
+</p>
 
 ## 👨‍💻 About Me 🚀
 
